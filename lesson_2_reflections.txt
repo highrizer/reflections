@@ -10,13 +10,22 @@ it bridges the working directory and the repository so that i can select whateve
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+git add file you want to commit to the stage area. git diff --staged to check the difference between the staged and the most recent commit
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+when you want to explore a new featuer and you don't know if it will work out. when you want to create a different edition.
+it keeps the naming easy.
+
 How do the diagrams help you visualize the branch structure?
+it allows us to see the branch structure more vividly.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+it combines the changes made by both by referencing the original one.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+when there are conficts one have to merge manually
