@@ -31,4 +31,4 @@ When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
     Fill in your answer here
-    
+    whenever i am cooperating with others. whatever changes have to be made on a separate branch on a my local computer and then to push it to github. this allows us to use pull request make changes to the master branch on github. by using pull request we allow other people to view our changes and make comments. 
